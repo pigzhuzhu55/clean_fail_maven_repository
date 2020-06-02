@@ -1,0 +1,8 @@
+D:\User\Maven\repos\maven.remove_no_jar_dir\maven.remove_no_jar_dir\obj\Debug\maven.remove_no_jar_dir.csprojAssemblyReference.cache
+D:\User\Maven\repos\maven.remove_no_jar_dir\maven.remove_no_jar_dir\obj\Debug\maven.remove_no_jar_dir.Form1.resources
+D:\User\Maven\repos\maven.remove_no_jar_dir\maven.remove_no_jar_dir\obj\Debug\maven.remove_no_jar_dir.Properties.Resources.resources
+D:\User\Maven\repos\maven.remove_no_jar_dir\maven.remove_no_jar_dir\obj\Debug\maven.remove_no_jar_dir.csproj.GenerateResource.cache
+D:\User\Maven\repos\maven.remove_no_jar_dir\maven.remove_no_jar_dir\bin\Debug\maven.remove_no_jar_dir.exe
+D:\User\Maven\repos\maven.remove_no_jar_dir\maven.remove_no_jar_dir\bin\Debug\maven.remove_no_jar_dir.pdb
+D:\User\Maven\repos\maven.remove_no_jar_dir\maven.remove_no_jar_dir\obj\Debug\maven.remove_no_jar_dir.exe
+D:\User\Maven\repos\maven.remove_no_jar_dir\maven.remove_no_jar_dir\obj\Debug\maven.remove_no_jar_dir.pdb
