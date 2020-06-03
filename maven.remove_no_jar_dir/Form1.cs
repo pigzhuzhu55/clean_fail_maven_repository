@@ -80,6 +80,7 @@ namespace maven.remove_no_jar_dir
         private void btnClean_Click(object sender, EventArgs e)
         {
 
+
             if (MessageBox.Show("确认删除吗", "提示", MessageBoxButtons.OKCancel)
                 != DialogResult.OK)
             {
