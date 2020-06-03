@@ -263,7 +263,10 @@ namespace maven.remove_no_jar_dir
                     BindRichBox(richTextBox3, "所选jar不符合规则", false);
                     return;
                 }
-
+                for (int i = 1; i < len - 2; i++)
+                {
+                    groupId += "." + strs[i];
+                }
 
                 dependency dy = new dependency();
                 dy.groupId = groupId;
